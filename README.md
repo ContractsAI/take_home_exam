@@ -15,7 +15,7 @@ Create a new repository on Github and upload the project.
 - The repository should have a clear README.md file that explains the project and how to use it.
 - The repository should contain all the necessary files to run the project.
 - The repository should not contain any sensitive information such as API keys, passwords, or personal information.
-- The submission deadline is 2 days after receiving the take-home exam.
+- The submission deadline is 1 days after receiving the take-home exam.
 
 ### Evaluation Criteria
 The evaluation will be based on the following criteria:
